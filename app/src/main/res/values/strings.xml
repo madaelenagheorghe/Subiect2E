@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Subiect2E</string>
+    <string name="add_service_card">Add service card</string>
+    <string name="statistics">Statistics</string>
+    <string name="service_card_list">Service card list</string>
+    <string name="save_cards">Save cards</string>
+    <string name="download_service_cards">Download service cards</string>
+    <string name="service_number">Service number:</string>
+    <string name="service_department">Service department:</string>
+    <string name="service_cost">Service cost:</string>
+    <string name="service_date">Service date:</string>
+    <string name="add_service_card_activity">Add service card</string>
+    <string name="service_number_ad">Service number</string>
+    <string name="service_department_list">Service department</string>
+    <string name="service_cost_list">Service cost</string>
+    <string name="service_date_list">Service date</string>
+    <string name="see_packages">See packages</string>
+    <array name="spinnerOptions">
+        <item>
+            electrical
+        </item>
+        <item>
+            mechanical
+        </item>
+    </array>
+</resources>
